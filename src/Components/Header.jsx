@@ -12,11 +12,11 @@ const Header = () => {
                     <Navbar.Brand>Shivam Sharma</Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="jusstify-content-end">
-                        <Nav className="me-auto">
+                        <Nav className="ml-auto">
                             <NavLink to="/" className="nav-link">Home</NavLink>
                             <NavLink to="/projects" className="nav-link">Projects</NavLink>
                             <NavLink to="/services" className="nav-link">Services</NavLink>
-                            <NavLink to="/contacts" className="nav-link">Contacts</NavLink>
+                            <NavLink to="/contact" className="nav-link">Contacts</NavLink>
                             <NavLink to="/about" className="nav-link">About</NavLink>
                              
                         </Nav>
