@@ -30,7 +30,8 @@ body {
   font-size: 1.25rem;
 }
 
-/*
+
+/* 
 nav {
   position: absolute;
   top: 0;
@@ -106,6 +107,7 @@ li {
   align-items: center;
   cursor: pointer;
 } */
+
 .fixed-top {
   background-color: #0e1516;
 }
