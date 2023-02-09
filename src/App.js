@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './Components/Header';
-import Home from './pages/Home'
-import Projects from './pages/Projects'
-import Contact from './pages/Contact'
+import Home from './pages/Home';
+import Projects from './pages/Projects';
+import Contact from './pages/Contact';
  import { Container } from 'react-bootstrap';
 import './App.css';
 
